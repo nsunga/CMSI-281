@@ -1,0 +1,5 @@
+Welcome to CS 20B!
+
+Computers are good at following instructions, but not at reading your mind.
+
+If you automate a mess, you get an automated mess.
